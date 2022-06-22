@@ -1,0 +1,1187 @@
+******************************************************************************************************
+Analysed Review: 
+top quality experience
+
+Positive Words:
+top
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE
+
+******************************************************************************************************
+Analysed Review: 
+comendable support staff
+
+Positive Words:
+support
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+sadly a bad experience
+
+Negative Words:
+sadly
+bad
+
+Positive Sentiments: 0
+Negative Sentiments: 2
+Total Sentimental References: 2
+
+Polarity: 0
+
+
+Sentiment possessed is NEGATIVE 
+
+******************************************************************************************************
+Analysed Review: 
+good :)
+
+Positive Words:
+good
+:)
+
+Positive Sentiments: 2
+Negative Sentiments: 0
+Total Sentimental References: 2
+
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+good :)
+
+Positive Words:
+good
+:)
+
+Positive Sentiments: 2
+Negative Sentiments: 0
+Total Sentimental References: 2
+
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+happy
+
+Positive Words:
+happy
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+fascinating services
+
+Positive Words:
+fascinating
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+unexplainable experience
+
+Positive Sentiments: 0
+Negative Sentiments: 0
+Total Sentimental References: 0
+
+Polarity: nan
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+nice experience
+
+Positive Words:
+nice
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+nice not bad
+
+Positive Words:
+nice
+not bad
+
+Positive Sentiments: 2
+Negative Sentiments: 0
+Total Sentimental References: 2
+
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+nice not amazing
+
+Positive Words:
+nice
+
+Negative Words:
+not amazing
+
+Positive Sentiments: 1
+Negative Sentiments: 1
+Total Sentimental References: 2
+
+Polarity: 0.5
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+very god experience
+
+Positive Sentiments: 0
+Negative Sentiments: 0
+Total Sentimental References: 0
+
+Polarity: nan
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+very good experience
+
+Positive Words:
+good
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+very good
+
+Positive Words:
+good
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+very good
+
+Positive Words:
+good
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+very god
+
+Positive Sentiments: 0
+Negative Sentiments: 0
+Total Sentimental References: 0
+
+Polarity: nan
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+very good
+
+Positive Words:
+good
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+very bad
+
+Negative Words:
+bad
+
+Positive Sentiments: 0
+Negative Sentiments: 1
+Total Sentimental References: 1
+
+Polarity: 0
+
+
+Sentiment possessed is NEGATIVE 
+
+******************************************************************************************************
+Analysed Review: 
+i didnt liked the service
+
+Negative Words:
+didn't liked
+
+Positive Sentiments: 0
+Negative Sentiments: 1
+Total Sentimental References: 1
+
+Polarity: 0
+
+
+Sentiment possessed is NEGATIVE 
+
+******************************************************************************************************
+Analysed Review: 
+very nice 
+
+Negative Words:
+very nice
+
+Positive Sentiments: 0
+Negative Sentiments: 1
+Total Sentimental References: 1
+
+Polarity: 0
+
+
+Sentiment possessed is NEGATIVE 
+
+******************************************************************************************************
+Analysed Review: 
+fascinating :)
+
+Positive Words:
+fascinating
+:)
+
+Positive Sentiments: 2
+Negative Sentiments: 0
+Total Sentimental References: 2
+
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+enjoyed
+
+Positive Words:
+enjoyed
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+travelled from manchester to islamabad and the flight was appalling . there was no inflight entertainment for the 8 hour journey. the plane was old and the seats were uncomfortable! will not be travelling pia again will find an alternative airline that puts customer service at the forefront .
+
+Negative Words:
+appalling
+
+Positive Sentiments: 0
+Negative Sentiments: 1
+Total Sentimental References: 1
+
+Polarity: 0
+
+
+Sentiment possessed is NEGATIVE 
+
+******************************************************************************************************
+Analysed Review: 
+very poor service, flight suppose to take off @10:40, while posting this i am still sitting in the plane and it 12:05pm. zero information service from staff i.e ground, in plane announcement. extremely poor service. no cause of delay announced. trying it after 20 years with a hope things might be better, unfortunately it has gone bad to worse. if this is the way it is managed,pia will not last longer. it will become a burden on government of pakistan.
+
+Positive Words:
+no delay
+better
+not burden
+
+Negative Words:
+poor
+poor
+unfortunately
+bad
+worse
+
+Positive Sentiments: 3
+Negative Sentiments: 5
+Total Sentimental References: 8
+
+Polarity: 0.375
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+very poor service, flight suppose to take off @10:40, while posting this i am still sitting in the plane and it 12:05pm. zero information service from staff i.e ground, in plane announcement. extremely poor service. no cause of delay announced. trying it after 20 years with a hope things might be better, unfortunately it has gone bad to worse. if this is the way it is managed,pia will not last longer. it will become a burden on government of pakistan.
+
+Positive Words:
+no delay
+better
+not burden
+
+Negative Words:
+poor
+poor
+unfortunately
+bad
+worse
+
+Positive Sentiments: 3
+Negative Sentiments: 5
+Total Sentimental References: 8
+
+Polarity: 0.375
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+very poor service, flight suppose to take off @10:40, while posting this i am still sitting in the plane and it 12:05pm. zero information service from staff i.e ground, in plane announcement. extremely poor service. no cause of delay announced. trying it after 20 years with a hope things might be better, unfortunately it has gone bad to worse. if this is the way it is managed,pia will not last longer. it will become a burden on government of pakistan.
+
+Positive Words:
+no delay
+better
+not burden
+
+Negative Words:
+poor
+poor
+unfortunately
+bad
+worse
+
+Positive Sentiments: 3
+Negative Sentiments: 5
+Total Sentimental References: 8
+
+Polarity: 0.375
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+it was great experience
+
+Positive Words:
+great
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+not bad
+
+Positive Words:
+not bad
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+service was not good
+
+Negative Words:
+not good
+
+Positive Sentiments: 0
+Negative Sentiments: 1
+Total Sentimental References: 1
+
+Polarity: 0
+
+
+Sentiment possessed is NEGATIVE 
+
+******************************************************************************************************
+Analysed Review: 
+flight experience was amaming but food was raw
+
+Positive Sentiments: 0
+Negative Sentiments: 0
+Total Sentimental References: 0
+
+Polarity: nan
+
+
+Sentiment possessed is NEUTRAL 
+
+께께******************************************************************************************************
+Analysed Review: 
+very nice
+
+Positive Words:
+nice
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+께께******************************************************************************************************
+Analysed Review: 
+dsdada
+
+Positive Sentiments: 0
+Negative Sentiments: 0
+Total Sentimental References: 0
+
+Polarity: nan
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+not great
+
+Negative Words:
+not great
+
+Positive Sentiments: 0
+Negative Sentiments: 1
+Total Sentimental References: 1
+Polarity: 0
+
+
+Sentiment possessed is NEGATIVE 
+
+******************************************************************************************************
+Analysed Review: 
+good service
+
+Positive Words:
+good
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+good experience
+
+Positive Words:
+good
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+flight was amazing but food was not good.
+
+Positive Words:
+amazing
+
+Negative Words:
+not good
+
+Positive Sentiments: 1
+Negative Sentiments: 1
+Total Sentimental References: 2
+Polarity: 0.5
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+good food
+
+Positive Words:
+good
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+sasa
+
+Positive Sentiments: 0
+Negative Sentiments: 0
+Total Sentimental References: 0
+Polarity: nan
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+dsdsdsdsd
+
+Positive Sentiments: 0
+Negative Sentiments: 0
+Total Sentimental References: 0
+Polarity: nan
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+dsdsds
+
+Positive Sentiments: 0
+Negative Sentiments: 0
+Total Sentimental References: 0
+Polarity: nan
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+sasasasa
+
+Positive Sentiments: 0
+Negative Sentiments: 0
+Total Sentimental References: 0
+Polarity: nan
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+sasasasas
+
+Positive Sentiments: 0
+Negative Sentiments: 0
+Total Sentimental References: 0
+Polarity: nan
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+
+
+Positive Sentiments: 0
+Negative Sentiments: 0
+Total Sentimental References: 0
+Polarity: nan
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+flight experience was good but the service was poor
+
+Positive Words:
+good
+
+Negative Words:
+poor
+
+Positive Sentiments: 1
+Negative Sentiments: 1
+Total Sentimental References: 2
+Polarity: 0.5
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+flight experience was good but service was not good
+
+Positive Words:
+good
+
+Negative Words:
+not good
+
+Positive Sentiments: 1
+Negative Sentiments: 1
+Total Sentimental References: 2
+Polarity: 0.5
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+flight experience was good but food was not good
+
+Positive Words:
+good
+
+Negative Words:
+not good
+
+Positive Sentiments: 1
+Negative Sentiments: 1
+Total Sentimental References: 2
+Polarity: 0.5
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+flight experience was good but food was not good
+
+Positive Words:
+good
+
+Negative Words:
+not good
+
+Positive Sentiments: 1
+Negative Sentiments: 1
+Total Sentimental References: 2
+Polarity: 0.5
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+flight experience was good but food was not good
+
+Positive Words:
+good
+
+Negative Words:
+not good
+
+Positive Sentiments: 1
+Negative Sentiments: 1
+Total Sentimental References: 2
+Polarity: 0.5
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+gotoxy(0,31);
+
+Positive Sentiments: 0
+Negative Sentiments: 0
+Total Sentimental References: 0
+Polarity: nan
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+good service
+
+Positive Words:
+good
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+gotoxy(0,31);
+
+Positive Sentiments: 0
+Negative Sentiments: 0
+Total Sentimental References: 0
+Polarity: nan
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+gotoxy(0,31);
+
+Positive Sentiments: 0
+Negative Sentiments: 0
+Total Sentimental References: 0
+Polarity: nan
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+flight experience was good
+
+Positive Words:
+good
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+flight experience was good
+
+Positive Words:
+good
+
+Positive Sentiments: 1
+Negative Sentiments: 0
+Total Sentimental References: 1
+Polarity: 1
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+trip was amazing but food was not good
+
+Positive Words:
+amazing
+
+Negative Words:
+not good
+
+Positive Sentiments: 1
+Negative Sentiments: 1
+Total Sentimental References: 2
+Polarity: 0.5
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+good experience but food was not good
+
+Positive Words:
+good
+
+Negative Words:
+not good
+
+Positive Sentiments: 1
+Negative Sentiments: 1
+Total Sentimental References: 2
+Polarity: 0.5
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+good experience but food was not good
+
+Positive Words:
+good
+
+Negative Words:
+not good
+
+Positive Sentiments: 1
+Negative Sentiments: 1
+Total Sentimental References: 2
+Polarity: 0.5
+
+
+Sentiment possessed is NEUTRAL 
+
+******************************************************************************************************
+Analysed Review: 
+good experience
+
+Positive Words:
+good
+
+Positive Sentiments: 2
+Negative Sentiments: 1
+Total Sentimental References: 3
+Polarity: 0.666667
+
+
+Sentiment possessed is POSITIVE 
+
+******************************************************************************************************
+Analysed Review: 
+amazing experience.enjoyed alot
+
+
+ Positive Words:
+amazing
+enjoyed
+
+
+ Positive Sentiments: 2
+
+ Negative Sentiments: 0
+
+ Total Sentimental References: 2
+
+Polarity: 1
+
+ Sentiment possessed is POSITIVE ******************************************************************************************************
+Analysed Review: 
+flight experience was good but food was not good.
+
+
+ Positive Words:
+good
+
+
+ Negative Words:
+not good
+
+
+ Positive Sentiments: 1
+
+ Negative Sentiments: 1
+
+ Total Sentimental References: 2
+
+Polarity: 0.5
+
+ Sentiment possessed is NEUTRAL 
+******************************************************************************************************
+Analysed Review: 
+good experience
+
+
+ Positive Words:
+good
+
+
+ Positive Sentiments: 1
+
+ Negative Sentiments: 0
+
+ Total Sentimental References: 1
+
+Polarity: 1
+
+ Sentiment possessed is POSITIVE 
+******************************************************************************************************
+Analysed Review: 
+sasasasasas
+
+
+ Positive Sentiments: 0
+
+ Negative Sentiments: 0
+
+ Total Sentimental References: 0
+
+Polarity: nan
+
+ Sentiment possessed is NEUTRAL 
+******************************************************************************************************
+Analysed Review: 
+23
+
+
+ Positive Sentiments: 0
+
+ Negative Sentiments: 0
+
+ Total Sentimental References: 0
+
+Polarity: nan
+
+ Sentiment possessed is NEUTRAL 
+******************************************************************************************************
+Analysed Review: 
+tufuvjvj yfjh jftft ydgdhydtu kugjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+
+
+ Positive Sentiments: 0
+
+ Negative Sentiments: 0
+
+ Total Sentimental References: 0
+
+Polarity: nan
+
+ Sentiment possessed is NEUTRAL 
+******************************************************************************************************
+Analysed Review: 
+
+
+
+ Positive Sentiments: 0
+
+ Negative Sentiments: 0
+
+ Total Sentimental References: 0
+
+Polarity: nan
+
+ Sentiment possessed is NEUTRAL 
+******************************************************************************************************
+Analysed Review: 
+
+
+
+ Positive Sentiments: 0
+
+ Negative Sentiments: 0
+
+ Total Sentimental References: 0
+
+Polarity: nan
+
+ Sentiment possessed is NEUTRAL 
+******************************************************************************************************
+Analysed Review: 
+vey good service
+
+
+ Positive Words:
+good
+
+
+ Positive Sentiments: 1
+
+ Negative Sentiments: 0
+
+ Total Sentimental References: 1
+
+Polarity: 1
+
+ Sentiment possessed is POSITIVE 
+******************************************************************************************************
+Analysed Review: 
+very good service
+
+
+ Negative Words:
+very good
+
+
+ Positive Sentiments: 0
+
+ Negative Sentiments: 1
+
+ Total Sentimental References: 1
+
+Polarity: 0
+
+ Sentiment possessed is NEGATIVE 
+
+******************************************************************************************************
+Analysed Review: 
+
+
+
+ Positive Sentiments: 0
+
+ Negative Sentiments: 0
+
+ Total Sentimental References: 0
+
+Polarity: nan
+
+ Sentiment possessed is NEUTRAL 
+******************************************************************************************************
+Analysed Review: 
+service providers arn't available
+
+
+ Positive Words:
+available
+
+
+ Positive Sentiments: 1
+
+ Negative Sentiments: 0
+
+ Total Sentimental References: 1
+
+Polarity: 1
+
+ Sentiment possessed is POSITIVE 
+******************************************************************************************************
+Analysed Review: 
+no service available
+
+
+ Negative Words:
+no available
+
+
+ Positive Sentiments: 0
+
+ Negative Sentiments: 1
+
+ Total Sentimental References: 1
+
+Polarity: 0
+
+ Sentiment possessed is NEGATIVE 
+******************************************************************************************************
+Analysed Review: 
+no service available
+
+
+ Negative Words:
+no available
+
+
+ Positive Sentiments: 0
+
+ Negative Sentiments: 1
+
+ Total Sentimental References: 1
+
+Polarity: 0
+
+ Sentiment possessed is NEGATIVE 
+******************************************************************************************************
+Analysed Review: 
+
+
+
+ Positive Sentiments: 0
+
+ Negative Sentiments: 0
+
+ Total Sentimental References: 0
+
+Polarity: nan
+
+ Sentiment possessed is NEUTRAL 
+******************************************************************************************************
+Analysed Review: 
+very bad
+
+
+ Negative Words:
+bad
+
+
+ Positive Sentiments: 0
+
+ Negative Sentiments: 1
+
+ Total Sentimental References: 1
+
+Polarity: 0
+
+ Sentiment possessed is NEGATIVE 
